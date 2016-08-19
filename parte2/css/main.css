@@ -1,0 +1,43 @@
+.unoexterior{
+	display:block;
+	width: 230px;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-color:orange;
+	border-style: solid;
+	padding: 10px;
+}
+
+h4{
+	padding: 10px;
+}
+.dosexterior{
+	display:block;
+	width: 230px;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    border-color:orange;
+	border-style: solid;
+	padding: 10px;
+}
+
+
+h4{
+	padding: 10px;
+}
+.tresexterior{
+	display:block;
+	width: 230px;
+	height: 200px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    border-color:orange;
+	border-style: solid;
+	padding: 10px;
+}
+
+h4{
+	padding: 1px 5px;
+}
